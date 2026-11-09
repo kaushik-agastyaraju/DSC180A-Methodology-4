@@ -1,8 +1,11 @@
 # DSC 180A Methodology Assignment 4
 
-**Name:** Kaushik Agastyaraju
+**Name:** Kaushik Agastyaraju  
+
 **Email:** kagastyaraju@ucsd.edu
-**Section:** Wildfire Prediction (D__)
+
+**Section:** Wildfire Prediction (D11)
+
 **Mentor:** Mark Dixon (Cotality)
 
 **What is the most interesting topic covered in your domain this quarter?**
